@@ -1,0 +1,19 @@
+Civil Engineer CV - Sample
+
+Name: Amelia Hart
+Email: engineer@structuralstudio.com
+Phone: +1 (555) 102-2048
+LinkedIn: linkedin.com/in/civil-engineer
+
+Summary:
+Civil engineer with 9+ years of experience in structural design, BIM coordination, and construction supervision.
+
+Core Expertise:
+- Structural analysis and design
+- Seismic retrofit and resilience
+- Site supervision and quality assurance
+- BIM coordination and clash detection
+- Quantity estimation and project planning
+
+Selected Tools:
+AutoCAD, Revit, Tekla, ETABS, SAP2000, Navisworks, Primavera P6
